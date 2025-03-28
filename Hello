@@ -1,11 +1,11 @@
-import java.util.Scanner;
+meimport java.util.Scanner;
 import java.io.ByteArrayInputStream;
 
 public class Hello {
 
     public static void main(String[] args) {
 
-         System.out.print("Enter first number: ");
+         System.out.print("Hello all");
 
         
     }
