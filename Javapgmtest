@@ -1,4 +1,4 @@
-meimport java.util.Scanner;
+import java.util.Scanner;
 import java.io.ByteArrayInputStream;
 
 public class Javapgmtest {
