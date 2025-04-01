@@ -1,7 +1,7 @@
 meimport java.util.Scanner;
 import java.io.ByteArrayInputStream;
 
-public class Hello {
+public class Javapgmtest {
 
     public static void main(String[] args) {
 
